@@ -3,6 +3,7 @@
 Link: https://youtu.be/udr2rx_B99w
 
 npm install redux react-redux react-thunk @types/react-redux
+npm install redux-thunk @types/redux-thunk
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
